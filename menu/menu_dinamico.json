@@ -1,0 +1,31 @@
+[{	"titulo": "PAD1",
+						"separador": true,
+						"url": "",
+						"itens": [{	"titulo": "item1",
+									"separador": false,
+									"url": "http://1",
+									"itens": [{	"titulo": "subItem1.1",
+												"separador": true,
+												"url": "http://"
+											},
+											{	"titulo": "subItem1.2",
+												"separador": false,
+												"url": "http://"
+											}]
+								},
+								{	"titulo": "item2",
+									"separador": false,
+									"url": "",
+									"itens": [{	"titulo": "subItem2.1",
+												"separador": false,
+												"url": "http://"
+											},
+											{	"titulo": "subItem2.2",
+												"separador": false,
+												"url": "http://"
+											}]
+								}]
+						},
+						{    "titulo": "PAD2",
+							 "separador": true
+						}]
