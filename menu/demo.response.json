@@ -6,7 +6,7 @@
 									"url": "http://1",
 									"itens": [{	"titulo": "subItem1.1",
 												"separador": true,
-												"url": "http://"
+												"url": "/a06/teste/1"
 											},
 											{	"titulo": "subItem1.2",
 												"separador": false,
